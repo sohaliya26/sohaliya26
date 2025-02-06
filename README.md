@@ -1,7 +1,8 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://github.com/sohaliya26/blob/main/banner.png" alt="GitHub Banner">
+  <img src="https://raw.githubusercontent.com/sohaliya26/sohaliya26/main/banner.png" alt="GitHub Banner">
 </p>
+
 
 <!-- Introduction -->
 <h1 align="center">Hi, I'm Mitin! 👋</h1>
