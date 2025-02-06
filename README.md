@@ -1,8 +1,3 @@
-<!-- Banner Image -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sohaliya26/sohaliya26/main/banner.png" alt="GitHub Banner">
-</p>
-
 <!-- Introduction -->
 <h1 align="center">Hi, I'm Mitin! 👋</h1>
 
@@ -43,16 +38,6 @@ Passionate about automating workflows, optimizing cloud infrastructure, and buil
   <img src="https://img.shields.io/badge/MySQL-%2300CFFF.svg?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/Oracle-%23F80000.svg?style=for-the-badge&logo=oracle&logoColor=white">
   <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
-</p>
-
----
-
-<!-- GitHub Stats -->
-<h2>📊 GitHub Stats</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sohaliya26&show_icons=true&theme=radical" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sohaliya26&theme=radical" alt="GitHub Streak Stats" width="48%">
 </p>
 
 ---
