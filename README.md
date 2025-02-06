@@ -1,3 +1,16 @@
+<!-- Introduction -->
+<h1 align="center" style="color: #FF5733; font-size: 36px; font-weight: bold;">
+  Hi, I'm Mitin! 👋
+</h1>
+
+<p align="center" style="font-size: 18px; font-weight: 500; color: #4A90E2;">
+  🚀 <span style="color: #FF9900;">DevOps Engineer</span> | <span style="color: #00C853;">Cloud Architect</span> | <span style="color: #8E44AD;">CI/CD</span> | <span style="color: #FF6347;">Kubernetes</span> | <span style="color: #FFD700;">AWS</span> | <span style="color: #35B8A7;">Terraform</span><br>
+  Passionate about automating workflows, optimizing cloud infrastructure, and building scalable systems.
+</p>
+
+---
+
+<!-- Tech Stack -->
 <!-- Tech Stack -->
 <h2 style="color: #FF5733;">💻 Tech Stack</h2>
 
@@ -29,3 +42,26 @@
   <a href="https://www.oracle.com/database/" target="_blank"><img src="https://img.shields.io/badge/Oracle-%23F80000.svg?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle"></a>
   <a href="https://www.postgresql.org/" target="_blank"><img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"></a>
 </p>
+
+
+---
+
+<!-- Projects -->
+<h2 style="color: #FF5733;">🚀 Featured Projects</h2>
+
+- 🔥 **[Jenkins CI/CD Automation](https://github.com/sohaliya26/Jenkins-Automating-Code-Deployment)** - Automating code deployment with Jenkins, AWS, and Docker.
+- 🛠️ **[Scalable Reddit Clone with Kubernetes](https://github.com/sohaliya26/Reddit-Kubernetes)** - Deploying a scalable and secure Reddit clone using Kubernetes and CI/CD.
+- 🌍 **[Terraform AWS Infrastructure](https://github.com/sohaliya26/Terraform-AWS-Infra)** - Building AWS infrastructure as code using Terraform.
+
+---
+
+<!-- Connect with Me -->
+<h2 style="color: #FF5733;">📬 Connect with Me</h2>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sohaliya-mitin-465415236)
+[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sohaliya26)
+[![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sohaliyamitin@gmail.com)
+
+---
+
+⭐ **Feel free to fork, star, and connect with me!** ⭐
