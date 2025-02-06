@@ -1,5 +1,5 @@
 <!-- Introduction -->
-<h1 align="center" style="color: #FF5733; font-size: 36px; font-weight: bold;">
+<h1 align="center" style="color: orange; font-size: 36px; font-weight: bold;">
   Hi, I'm Mitin! 👋
 </h1>
 
