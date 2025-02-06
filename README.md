@@ -33,7 +33,7 @@ Passionate about automating workflows, optimizing cloud infrastructure, and buil
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sohaliya26&show_icons=true&theme=radical" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sohaliya26&theme=radical" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sohaliya26&theme=radical" alt="GitHub Streak Stats" width="48%">
 </p>
 
 ---
