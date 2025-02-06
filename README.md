@@ -3,7 +3,7 @@
   Hi, I'm Mitin! 👋
 </h1>
 
-<p align="center" style="font-size: 18px; font-weight: 500; color: #4A90E2;">
+<p align="center" style="font-size: 50px; font-weight: 500; color: #4A90E2;">
   🚀 <span style="color: #FF9900;">DevOps Engineer</span> | <span style="color: #00C853;">Cloud Architect</span> | <span style="color: #8E44AD;">CI/CD</span> | <span style="color: #FF6347;">Kubernetes</span> | <span style="color: #FFD700;">AWS</span> | <span style="color: #35B8A7;">Terraform</span><br>
   Passionate about automating workflows, optimizing cloud infrastructure, and building scalable systems.
 </p>
